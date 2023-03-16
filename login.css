@@ -108,11 +108,11 @@ margin-top: 0px;
     padding: 10px;
     width: 320px;
     height: 9px;
+    border: solid 0.5px;
     margin-top: 13px;
     margin-bottom: 10px;
-    border-color: gray;
-    border-top-color: WHITE;
-    border-left-color: white;
+    border-color: rgb(214, 213, 213);
+    
 }
 .wb{
     padding-bottom: 30px;
@@ -187,7 +187,7 @@ padding-bottom: 3px;
 }
 .para
 {
-    font-weight: bold;
+    font-weight: 17;
     padding: 27px 27px;
     font-size: 20px;
     line-height: 40px;
@@ -234,3 +234,10 @@ padding-bottom: 3px;
     display: inline-flex;
     
 }
+.line{
+ 
+   padding-left: 74px;
+   margin-top: -30px;
+   line-height: 1.6;
+}
+
